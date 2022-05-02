@@ -1,0 +1,19 @@
+html, body {
+  height: 100vh;
+   background: #ccc
+  
+}
+
+.blastoff {
+  height: 100vh;
+      display: flex;
+    justify-content: center;
+}
+
+
+canvas {
+  position: fixed;
+  
+  height: 100vh;
+  object-fit: contain;
+}
